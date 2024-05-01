@@ -9592,62 +9592,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"expo-app@workspace:apps/expo":
-  version: 0.0.0-use.local
-  resolution: "expo-app@workspace:apps/expo"
-  dependencies:
-    "@babel/core": "npm:^7.20.0"
-    "@babel/plugin-syntax-flow": "npm:^7.24.1"
-    "@babel/plugin-transform-react-jsx": "npm:^7.23.4"
-    "@babel/preset-flow": "npm:^7.24.1"
-    "@expo/html-elements": "npm:0.9.1"
-    "@expo/vector-icons": "npm:14.0.0"
-    "@kolking/react-native-rating": "npm:^1.3.0"
-    "@react-navigation/native": "npm:^6.1.17"
-    "@sanity/eslint-config-studio": "npm:^4.0.0"
-    "@types/react": "npm:~18.2.21"
-    "@types/react-native": "npm:^0.72.2"
-    "@typescript-eslint/eslint-plugin": "npm:^6.7.2"
-    "@typescript-eslint/parser": "npm:^6.7.2"
-    app: "npm:*"
-    babel-plugin-module-resolver: "npm:^5.0.2"
-    eslint: "npm:^8.57.0"
-    eslint-config-universe: "npm:^12.0.0"
-    expo: "npm:next"
-    expo-constants: "npm:~15.4.6"
-    expo-font: "npm:~11.10.3"
-    expo-image: "npm:~1.12.4"
-    expo-linear-gradient: "npm:~13.0.1"
-    expo-linking: "npm:~6.3.1"
-    expo-router: "npm:~3.5.5"
-    expo-screen-orientation: "npm:~6.4.1"
-    expo-splash-screen: "npm:~0.27.2"
-    expo-status-bar: "npm:~1.12.1"
-    expo-system-ui: "npm:^2.9.3"
-    expo-web-browser: "npm:^12.8.2"
-    nativewind: "npm:4.0.36"
-    prettier: "npm:^3.2.5"
-    prettier-plugin-tailwindcss: "npm:^0.5.11"
-    react: "npm:18.2.0"
-    react-dom: "npm:18.2.0"
-    react-glider: "npm:^4.0.2"
-    react-is: "npm:^18.2.0"
-    react-native: "npm:0.74.0"
-    react-native-gesture-handler: "npm:~2.16.0"
-    react-native-reanimated: "npm:3.9.0-rc.1"
-    react-native-reanimated-carousel: "npm:^3.5.1"
-    react-native-safe-area-context: "npm:4.10.1"
-    react-native-screens: "npm:3.31.0-rc.1"
-    react-native-svg: "npm:15.2.0"
-    react-native-svg-transformer: "npm:^1.3.0"
-    react-native-vector-icons: "npm:^10.0.3"
-    react-native-web: "npm:0.19.11"
-    tailwindcss: "npm:3.4.3"
-    typescript: "npm:^5.4.5"
-    zustand: "npm:4.5.2"
-  languageName: unknown
-  linkType: soft
-
 "expo-asset@npm:~10.0.3":
   version: 10.0.3
   resolution: "expo-asset@npm:10.0.3"
@@ -10441,6 +10385,62 @@ __metadata:
   checksum: 10/17d8333460204fbf1f9160d067e1e77f908a5447febb49424b8ab043026049835c9ef3974445c57dbd39161f4d2b04356d7de12b2eecaa27a7a7ea7d871cbedd
   languageName: node
   linkType: hard
+
+"gesture-app@workspace:apps/expo":
+  version: 0.0.0-use.local
+  resolution: "gesture-app@workspace:apps/expo"
+  dependencies:
+    "@babel/core": "npm:^7.20.0"
+    "@babel/plugin-syntax-flow": "npm:^7.24.1"
+    "@babel/plugin-transform-react-jsx": "npm:^7.23.4"
+    "@babel/preset-flow": "npm:^7.24.1"
+    "@expo/html-elements": "npm:0.9.1"
+    "@expo/vector-icons": "npm:14.0.0"
+    "@kolking/react-native-rating": "npm:^1.3.0"
+    "@react-navigation/native": "npm:^6.1.17"
+    "@sanity/eslint-config-studio": "npm:^4.0.0"
+    "@types/react": "npm:~18.2.21"
+    "@types/react-native": "npm:^0.72.2"
+    "@typescript-eslint/eslint-plugin": "npm:^6.7.2"
+    "@typescript-eslint/parser": "npm:^6.7.2"
+    app: "npm:*"
+    babel-plugin-module-resolver: "npm:^5.0.2"
+    eslint: "npm:^8.57.0"
+    eslint-config-universe: "npm:^12.0.0"
+    expo: "npm:next"
+    expo-constants: "npm:~15.4.6"
+    expo-font: "npm:~11.10.3"
+    expo-image: "npm:~1.12.4"
+    expo-linear-gradient: "npm:~13.0.1"
+    expo-linking: "npm:~6.3.1"
+    expo-router: "npm:~3.5.5"
+    expo-screen-orientation: "npm:~6.4.1"
+    expo-splash-screen: "npm:~0.27.2"
+    expo-status-bar: "npm:~1.12.1"
+    expo-system-ui: "npm:^2.9.3"
+    expo-web-browser: "npm:^12.8.2"
+    nativewind: "npm:4.0.36"
+    prettier: "npm:^3.2.5"
+    prettier-plugin-tailwindcss: "npm:^0.5.11"
+    react: "npm:18.2.0"
+    react-dom: "npm:18.2.0"
+    react-glider: "npm:^4.0.2"
+    react-is: "npm:^18.2.0"
+    react-native: "npm:0.74.0"
+    react-native-gesture-handler: "npm:~2.16.0"
+    react-native-reanimated: "npm:3.9.0-rc.1"
+    react-native-reanimated-carousel: "npm:^3.5.1"
+    react-native-safe-area-context: "npm:4.10.1"
+    react-native-screens: "npm:3.31.0-rc.1"
+    react-native-svg: "npm:15.2.0"
+    react-native-svg-transformer: "npm:^1.3.0"
+    react-native-vector-icons: "npm:^10.0.3"
+    react-native-web: "npm:0.19.11"
+    tailwindcss: "npm:3.4.3"
+    typescript: "npm:^5.4.5"
+    zustand: "npm:4.5.2"
+  languageName: unknown
+  linkType: soft
 
 "get-caller-file@npm:^2.0.1, get-caller-file@npm:^2.0.5":
   version: 2.0.5
@@ -14853,29 +14853,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-css-interop@npm:^0.0.34":
-  version: 0.0.34
-  resolution: "react-native-css-interop@npm:0.0.34"
-  dependencies:
-    "@babel/helper-module-imports": "npm:^7.22.15"
-    "@babel/traverse": "npm:^7.23.0"
-    "@babel/types": "npm:^7.23.0"
-    babel-plugin-tester: "npm:^11.0.4"
-    lightningcss: "npm:1.22.0"
-  peerDependencies:
-    react: ">=18"
-    react-native: "*"
-    react-native-reanimated: ">=3.6.2"
-    tailwindcss: ~3
-  peerDependenciesMeta:
-    react-native-safe-area-context:
-      optional: true
-    react-native-svg:
-      optional: true
-  checksum: 10/2708d189397fa97b53d01d0502829c0bb7ddad50b3c959751dd75b8acbbd6c66aade1f4d586055f334cf1bbb5da0d1ddefe7c5f58ecc5261d8e93280bd698721
-  languageName: node
-  linkType: hard
-
 "react-native-gesture-handler@npm:~2.16.0":
   version: 2.16.1
   resolution: "react-native-gesture-handler@npm:2.16.1"
@@ -16003,26 +15980,6 @@ __metadata:
   checksum: 10/ffcb622c22481dfcd7589aae71fbfd71ca34334064d181df64bf8b7feaeee19706aba4cffd1de35cc7bbaeeaa0af96be2d7f40fcbc7bc0ab69533a7ae9ffc4fb
   languageName: node
   linkType: hard
-
-"solito-expo-router@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "solito-expo-router@workspace:."
-  dependencies:
-    "@gluestack-style/react": "npm:^1.0.54"
-    "@gluestack-ui/config": "npm:^1.1.18"
-    "@gluestack-ui/nativewind-utils": "npm:^1.0.13"
-    "@gluestack-ui/themed": "npm:^1.1.22"
-    "@gluestack/ui-next-adapter": "npm:^2.1.12"
-    "@types/react": "npm:~18.2.21"
-    "@types/react-native": "npm:^0.72.2"
-    eslint: "npm:^8.57.0"
-    react-native-css-interop: "npm:^0.0.34"
-    react-native-svg: "npm:^15.2.0"
-    react-native-web: "npm:^0.19.11"
-    turbo: "npm:^1.13.3"
-    typescript: "npm:^5.4.5"
-  languageName: unknown
-  linkType: soft
 
 "solito@npm:^4.2.2":
   version: 4.2.2
@@ -17671,6 +17628,25 @@ __metadata:
   checksum: 10/cea864dd9cf1f2133d82169a446fb94427ba089e4676f5895273ea085f165649afe587ae3f19f2f0370751a724bba2d96e9956d652b3e41ac1feaaa4376e2d70
   languageName: node
   linkType: hard
+
+"whatsupps-mono@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "whatsupps-mono@workspace:."
+  dependencies:
+    "@gluestack-style/react": "npm:^1.0.54"
+    "@gluestack-ui/config": "npm:^1.1.18"
+    "@gluestack-ui/nativewind-utils": "npm:^1.0.13"
+    "@gluestack-ui/themed": "npm:^1.1.22"
+    "@gluestack/ui-next-adapter": "npm:^2.1.12"
+    "@types/react": "npm:~18.2.21"
+    "@types/react-native": "npm:^0.72.2"
+    eslint: "npm:^8.57.0"
+    react-native-svg: "npm:^15.2.0"
+    react-native-web: "npm:^0.19.11"
+    turbo: "npm:^1.13.3"
+    typescript: "npm:^5.4.5"
+  languageName: unknown
+  linkType: soft
 
 "whatwg-fetch@npm:^3.0.0":
   version: 3.6.20

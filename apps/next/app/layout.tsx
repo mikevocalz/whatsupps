@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="#" />
         <StyledJsxRegistry>
           <Provider mode="light">{children}</Provider>
         </StyledJsxRegistry>
